@@ -1,0 +1,38 @@
+# -------------------------
+# Python ignores
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Backups
+*.bak
+*.old
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cache
+.cache/

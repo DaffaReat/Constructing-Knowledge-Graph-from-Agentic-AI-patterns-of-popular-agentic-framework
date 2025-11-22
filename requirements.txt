@@ -1,0 +1,4 @@
+pyautogen==0.2.27
+langgraph==0.2.3
+crewai==0.28.8
+
